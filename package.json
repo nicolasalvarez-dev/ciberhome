@@ -1,0 +1,10 @@
+{
+  "name": "ciberhome-stripe-checkout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de CiberHome con pago integrado mediante Stripe Checkout, desplegada en Netlify (Netlify Functions).",
+  "dependencies": {
+    "stripe": "^16.0.0",
+    "@netlify/blobs": "^8.1.0"
+  }
+}
